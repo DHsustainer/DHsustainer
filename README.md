@@ -45,6 +45,12 @@ I'm a Full-stack developer with 10+ years of experience, also I'm IT Security an
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhsustainer&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
 </a> -->
 
+<a href="https://profile.codersrank.io/user/dhsustainer/">
+    <img
+      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dhsustainer&badges=10&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+    />
+</a>
+
 ### If you wish to support me:
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhsustainer) 
