@@ -47,7 +47,8 @@ I'm a Full-stack developer with 10+ years of experience, also I'm IT Security an
 
 <a href="https://profile.codersrank.io/user/dhsustainer/">
     <img
-      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dhsustainer&badges=10&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+    width="300"
+      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dhsustainer&badges=10&width=400&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
     />
 </a>
 
